@@ -31,10 +31,10 @@
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               各種申込</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <!-- <a class="dropdown-item" href="event01/index.html">9/18.19イベント申込</a>
+              <a class="dropdown-item" href="event01/index.html">9/18.19イベント申込</a>
               <a class="dropdown-item" href="event02/index.html">10/23.24イベント申込</a>
               <a class="dropdown-item" href="event03/index.html">11/6.7イベント申込</a>
-              <a class="dropdown-item" href="water_tour/index.html">水の流れツアー申込</a> -->
+              <a class="dropdown-item" href="water_tour/index.html">水の流れツアー申込</a>
               <a class="dropdown-item " href="group.php">団体申込（浄水場見学　出前水道教室）</a>
             </div>
           </li>

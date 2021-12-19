@@ -5,9 +5,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="大阪市北区柴島にある、子ども連れで楽しめる入館無料の体験型施設。水道を通して自然と人のかかわりを考え、水や自然の大切さを学べます。
-定期的に開催する記念館の無料イベントもあります。ベビーカーOK、キッズルーム有。" />
-  <meta name="keywords" content="水道記念館,大阪,大阪府,大阪市,入場無料,無料施設,入館無料,イベント,水遊び,団体見学,浄水場場見学ツアー" />
+
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
@@ -41,7 +39,7 @@
     });
   </script>
   <!-- End User Heat Tag -->
-  
+
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-196732778-1"></script>
 <script>
@@ -80,4 +78,3 @@
     </div>
     <!--Waves end-->
   </header>
- 

@@ -1,6 +1,6 @@
- <!-- <div class="eventtop">
+ <div class="eventtop">
   <a href="event_form/event00.html">各種イベント<br>申し込みはこちら</a>
-</div>  -->
+</div>
 <!--main topics-->
 <div class="pt-5 pb-5 " id="002">
   <div class="section">
@@ -23,13 +23,13 @@
             <div class="accordion-body px-5">
               水道記念館は冬季期間休業させていただきます。<br>
               令和4年3月より開館する予定です。<br>
-              開館日が来ましましたらHPやSNSでご報告させていただきます。
+
               </p>
             </div>
           </div>
         </div>
 
-        <!-- <div class="accordion-item">
+        <div class="accordion-item">
           <h5 class="accordion-header" id="flush-headin10">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse10" aria-expanded="false" aria-controls="flush-collapse10">
               <span class="topics-px font-weight-bold">2021/09/10</span> 9/18・19イベント中止のお知らせ
@@ -45,7 +45,7 @@
           </div>
         </div> -->
 
-        <!-- <div class="accordion-item">
+        <div class="accordion-item">
           <h5 class="accordion-header" id="flush-heading09">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse09" aria-expanded="false" aria-controls="flush-collapse09">
               <span class="topics-px font-weight-bold">2021/08/02</span> 水道記念館の開館について
@@ -60,9 +60,9 @@
               </p>
             </div>
           </div>
-        </div> -->
+        </div>
 
-        <!-- <div class="accordion-item">
+        <div class="accordion-item">
           <h5 class="accordion-header" id="flush-heading08">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse08" aria-expanded="false" aria-controls="flush-collapse08">
               <span class="topics-px font-weight-bold">2021/07/30</span> 8/8･9、8/21･22夏休みイベントの中止について
@@ -76,9 +76,9 @@
               </p>
             </div>
           </div>
-        </div> -->
+        </div>
 
-        <!-- <div class="accordion-item">
+       <div class="accordion-item">
           <h5 class="accordion-header" id="flush-heading07">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse07" aria-expanded="false" aria-controls="flush-collapse07">
               <span class="topics-px font-weight-bold">2021/07/30</span> 「水の流れツアー」中止のお知らせ
@@ -92,8 +92,8 @@
               </p>
             </div>
           </div>
-        </div> -->
-        <!-- <div class="accordion-item">
+        </div>
+    <div class="accordion-item">
             <h5 class="accordion-header" id="flush-heading05">
               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                 data-bs-target="#flush-collapse05" aria-expanded="false" aria-controls="flush-collapse05">
@@ -108,8 +108,8 @@
                 </p>
               </div>
             </div>
-          </div>-->
-<!-- 
+          </div>
+
         <div class="accordion-item">
           <h5 class="accordion-header" id="flush-heading06">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse06" aria-expanded="false" aria-controls="flush-collapse06">
@@ -132,7 +132,7 @@
               </p>
             </div>
           </div>
-        </div> -->
+        </div>
         <div class="accordion-item">
           <h5 class="accordion-header" id="flush-heading02">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse02" aria-expanded="false" aria-controls="flush-collapse02">
