@@ -1,0 +1,18 @@
+上記は読んで字のごとくです。
+masterブランチ上でcommitすべきものはないということです。
+エラーではありません。
+
+GitHubにプッシュするにはremoteにリポジトリをaddしてからpushします。
+
+一例では下記のようなコマンドになります。
+
+git remote add origin https://github.com/あなたのUSER_ID/リポジトリ.git
+git push origin master(最近はmainブランチにするのが主流のようです)
+ただgitの概念の理解が必要なので、意図しない公開を防ぐためにもう少しgitの初歩を勉強されてから挑戦されたほうがよいような気がします。
+
+参考サイト：
+https://backlog.com/ja/git-tutorial/
+
+
+
+取り合ず更新１
